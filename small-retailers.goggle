@@ -2,3 +2,37 @@
 ! description: Help locate smaller scale retailers
 ! public: true
 ! author: tlamb
+! issues: https://github.com/tadlambjr/small-retailers/issues/new
+! avatar: #ffffff
+
+$discard,site=amazon.com
+$discard,site=ebay.com
+$discard,site=walmart.com
+$discard,site=google.com
+$discard,site=facebook.com
+$discard,site=apple.com
+$discard,site=aliexpress.com
+$discard,site=hp.com
+$discard,site=alibaba.com
+$discard,site=shopify.com
+$discard,site=dell.com
+$discard,site=samsung.com
+$discard,site=godaddy.com
+$discard,site=paypal.com
+$discard,site=stripe.com
+$discard,site=fb.com
+$discard,site=ikea.com
+$discard,site=homedepot.com
+$discard,site=nike.com
+$discard,site=target.com
+$discard,site=bestbuy.com
+$discard,site=wayfair.com
+$discard,site=lowes.com
+$discard,site=menards.com
+$discard,site=bedbathandbeyond.com
+$discard,site=patagonia.com
+$discard,site=adidas.com
+$discard,site=dickssportinggoods.com
+$discard,site=intuit.com
+$discard,site=macys.com
+$discard,site=starbucks.com
